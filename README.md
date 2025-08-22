@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hafez</h1>
 <h3 align="center">A passionate Artificial Intelligence graduate from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed2hafez&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed2hafez" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed2hafez" alt="ahmed2hafez" /></a> </p>
 
